@@ -12,6 +12,8 @@ dotnet_tool_publish.bat
 ## 使い方
 
 ```
+dotnet new console -n <ツール名>
+ツールを作成する
 DotNetToolBuilder <csprojファイルのパス>
 ```
 
